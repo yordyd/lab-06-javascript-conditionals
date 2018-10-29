@@ -1,1 +1,2 @@
-# lab-06-javascript-conditionals
+This is lab 06...
+It's about JavaScript conditionals.
